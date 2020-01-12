@@ -1,6 +1,6 @@
 def edit_distance(s1,s2):
 	"""
-		Edit distance means number of operations requires to convert one to another.
+		Edit distance means number of operations requires to convert one string to another string.
 		Operations available are: Insert, Replace, Delete
 		Input: S1 = saturday
 			   S2 = sunday
