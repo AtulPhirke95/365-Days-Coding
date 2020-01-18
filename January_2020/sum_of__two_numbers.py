@@ -1,7 +1,7 @@
 def return_me_the_indexes(n,arr):
 	"""
 		Input: n = 7
-			   arr = [2,3,7,4,12,35]
+		       arr = [2,3,7,4,12,35]
 		Output: (1, 3) -> 3 + 4 = 7 
 	"""
 	temp_lis = []
